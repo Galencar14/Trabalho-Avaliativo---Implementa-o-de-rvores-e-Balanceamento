@@ -1,2 +1,6 @@
 __pycache__/
 *.pyc
+
+passos/
+__pycache__/
+arvore.png
